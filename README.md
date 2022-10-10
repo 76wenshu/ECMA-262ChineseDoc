@@ -28,9 +28,9 @@ npm run build
 
 1）新建issue；
 
-样例：[issue#2](https://github.com/76wenshu/ECMA-262_13th_edition_june_2022/issues/2)
+样例：[issue#2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
 
-2)将issue 中内容同步到ECMA-262_13th_edition_june_2022ChineseDocumentation.md中
+2)将issue 中内容同步到ECMA-262ChineseDoc.md中
 
 样例：
 _________________________________________
@@ -39,7 +39,7 @@ spec.html
 
 time ： 2022-10-10 22:58（UTC+8）
 
-[issue： #2](https://github.com/76wenshu/ECMA-262_13th_edition_june_2022/issues/2)
+[issue： #2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
 
 LN 1-45(代码行数)
 
