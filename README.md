@@ -37,7 +37,7 @@ _________________________________________
 
 spec.html
 
-time ： 2022-10-10 22:58
+time ： 2022-10-10 22:58（UTC+8）
 
 [issue： #2](https://github.com/76wenshu/ECMA-262_13th_edition_june_2022/issues/2)
 
