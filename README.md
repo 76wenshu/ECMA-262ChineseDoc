@@ -9,3 +9,26 @@
 如果大家想一起翻译的可以新建issues
 
 [英文](https://tc39.es/ecma262/)
+
+此项目中上传内容是2022-10-10 22:04 tc39的英文网页
+
+# 第一步
+
+大家在参与翻译项目中，可将现有项目克隆到本地新建分支
+
+npm install 
+
+npm run build 
+
+在out文件夹中index.html 文件在浏览器中打开
+
+
+
+# 第二步
+
+1）新建issues；
+样例：
+
+
+
+ECMA-262_13th_edition_june_2022ChineseDocumentation
