@@ -30,6 +30,24 @@ npm run build
 样例：[issue#2](https://github.com/76wenshu/ECMA-262_13th_edition_june_2022/issues/2)
 
 2)将issue 中内容同步到ECMA-262_13th_edition_june_2022ChineseDocumentation.md中
+样例：
+_________________________________________
+
+spec.html
+
+time ： 2022-10-10 22:58
+
+[issue： #2](https://github.com/76wenshu/ECMA-262_13th_edition_june_2022/issues/2)
+
+LN 1-45(代码行数)
+
+person : 76wenshu
+
+__________________________________________
+
+3)分支提交
+  $ git checkout ECMA-262-issue #ISSUE ID
+  $ git commit -am 'translated: [LN - LN] issue #ISSUE ID'
 
 
 
