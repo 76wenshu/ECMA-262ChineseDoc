@@ -26,8 +26,11 @@ npm run build
 
 # 第二步
 
-1）新建issues；
-样例：
+1）新建issue；
+样例：[issue#2](https://github.com/76wenshu/ECMA-262_13th_edition_june_2022/issues/2)
+
+2)将issue 中内容同步到ECMA-262_13th_edition_june_2022China.md中
+
 
 
 
