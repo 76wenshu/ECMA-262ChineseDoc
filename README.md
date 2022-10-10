@@ -1,4 +1,4 @@
-# ECMA-262_13th_edition_june_2022
+# 
  >>站在巨人肩上，极力构建编程自学体系
 
 
@@ -7,3 +7,5 @@
 [ECMAScript®语言规范当前草案](https://github.com/tc39/ecma262)
 
 如果大家想一起翻译的可以新建issues
+
+[英文](https://tc39.es/ecma262/)
