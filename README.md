@@ -73,5 +73,15 @@ __________________________________________
   $ git checkout ECMA-262-issue #ISSUE ID
   
   $ git commit -am 'translated: [LN - LN] issue #ISSUE ID'
+  
+ #问题归纳
+ 
+ 1）windows系统中使用npm run build 命令报错 
+ 
+ 解决措施 ：
+ 
+ gitee https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5V6OU
+ 
+ github https://github.com/76wenshu/ECMA-262ChineseDoc/issues/4
 
 
