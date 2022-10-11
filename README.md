@@ -10,6 +10,11 @@
 
 [英文](https://tc39.es/ecma262/)
 
+[github ECMA-262ChineseDoc](https://github.com/76wenshu/ECMA-262ChineseDoc)
+
+[gitee ECMA-262ChinaDoc](https://gitee.com/wenshuwzs/ECMA-262ChineseDoc)
+
+
 此项目中上传内容是2022-10-10 22:04 tc39的英文网页
 
 # 第一步
@@ -28,7 +33,9 @@ npm run build
 
 1）新建issue；
 
-样例：[issue#2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
+gitee样例：[issue#I5UZ9L](https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5UZ9L)
+
+github样例：[issue#2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
 
 2)将issue 中内容同步到ECMA-262ChineseDoc.md中
 
@@ -39,7 +46,8 @@ spec.html
 
 time ： 2022-10-10 22:58（UTC+8）
 
-[issue： #2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
+(gitee)[issue： #I5UZ9L](https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5UZ9L)
+(girhub)[issue： #2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
 
 LN 1-45(代码行数)
 
@@ -54,6 +62,3 @@ __________________________________________
   $ git commit -am 'translated: [LN - LN] issue #ISSUE ID'
 
 
-
-
-ECMA-262_13th_edition_june_2022ChineseDocumentation
