@@ -35,6 +35,16 @@ npm run build
 
 1）新建issue；
 
+待翻译 新建issue但是文件内容未翻译
+
+翻译中 新建issue文件内容翻译中
+
+校对中 新建issue文件内容校对中
+
+审核校对中 新建issue文件内容审核校对中
+
+已发布 新建issue文件内容已发布
+
 gitee样例：[issue#I5UZ9L](https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5UZ9L)
 
 github样例：[issue#2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
