@@ -1,4 +1,4 @@
-# 
+# ECMA-262ChineseDoc
  >>站在巨人肩上，极力构建编程自学体系
 
 
@@ -47,6 +47,7 @@ spec.html
 time ： 2022-10-10 22:58（UTC+8）
 
 (gitee)[issue： #I5UZ9L](https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5UZ9L)
+
 (girhub)[issue： #2](https://github.com/76wenshu/ECMA-262ChineseDoc/issues/2)
 
 LN 1-45(代码行数)
