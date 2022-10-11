@@ -74,7 +74,7 @@ __________________________________________
   
   $ git commit -am 'translated: [LN - LN] issue #ISSUE ID'
   
- #问题归纳
+ # 问题归纳
  
  1）windows系统中使用npm run build 命令报错 
  
