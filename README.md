@@ -16,6 +16,10 @@
 
 [gitee ECMA-262ChinaDoc](https://gitee.com/wenshuwzs/ECMA-262ChineseDoc)
 
+ecma262-main 文件夹是tc39的英文原文档 每月就会同步更新
+
+ecma262ChineseDoc 文件夹是翻译之后的版本文件，定期发布发布供大家学习使用。
+
 
 此项目中上传内容是2022-10-10 22:04 tc39的英文网页
 
@@ -85,5 +89,14 @@ __________________________________________
  gitee https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5V6OU
  
  github https://github.com/76wenshu/ECMA-262ChineseDoc/issues/4
+
+
+ # 声明
+
+ 本项目不可用于商用，可个人免费学习使用。
+
+ 如过后续有资金赞助来源，会全部分发给参与翻译工作和提供建议的小伙伴。
+
+
 
 
