@@ -35,15 +35,17 @@ npm run build
 
 1）新建issue；
 
-待翻译 新建issue但是文件内容未翻译
+isuue 标签释义
 
-翻译中 新建issue文件内容翻译中
+<font color="#dd0000">待翻译</font> 新建issue但是文件内容未翻译
 
-校对中 新建issue文件内容校对中
+<font color="#dd0000">翻译中</font> 新建issue文件内容翻译中
 
-审核校对中 新建issue文件内容审核校对中
+<font color="#dd0000">校对中</font> 新建issue文件内容校对中
 
-已发布 新建issue文件内容已发布
+<font color="#dd0000">审核校对中</font> 新建issue文件内容审核校对中
+
+<font color="#dd0000">已发布</font> 新建issue文件内容已发布
 
 gitee样例：[issue#I5UZ9L](https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5UZ9L)
 
