@@ -39,7 +39,7 @@ npm run build
 
 1）新建issue；
 
-isuue 标签释义
+issue 标签释义
 
 <font color="#dd0000">待翻译</font> 新建issue但是文件内容未翻译
 
