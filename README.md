@@ -89,6 +89,10 @@ __________________________________________
  gitee https://gitee.com/wenshuwzs/ECMA-262ChineseDoc/issues/I5V6OU
  
  github https://github.com/76wenshu/ECMA-262ChineseDoc/issues/4
+ 
+ 2）B站讲解视频
+ 
+ https://www.bilibili.com/video/BV1Wd4y1179E/?vd_source=0a9d4fd835c62d03968fa742ee71c7de
 
 
  # 声明
